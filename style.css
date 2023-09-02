@@ -1,0 +1,11 @@
+body {
+  font-family: "Lexend", sans-serif;
+}
+.text-decoration-underline-warning {
+  text-decoration: underline !important;
+  text-decoration-color: #ffc107 !important;
+}
+.form-control:focus {
+  border-color: #ffc107;
+  box-shadow: 0 0 0 0.2rem rgba(167, 140, 40, 0.25);
+}
